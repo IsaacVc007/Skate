@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Casa Skate</title>
+    <link rel="stylesheet" href="Adebola.CSS">  
+    </head>
+</html>
+<div class="topnav">
+    <a class="active" href="/Casa Skate 2.0.html">Home</a>
+    <a href="#Tips">Tips</a>
+
+    <ul>
+        <li><a href="#skateboards">Skateboards</a></li>
+        <li><a href="#skatepants">Skate Pants</a></li>
+        <li><a href="#Cans">Cans</a></li>
+        <li><a href="#clothes">Clothes</a></li>
+      </ul>
+      <a href="#contact">Contact</a>
+
+    </div>
+  </div>
+  
+
+  <div class="center-container">
+    <img src="https://graffiticreatoronline.com/2024/12/04/0GueMWXy.png" alt="La Casa State">
+  </div>
+
+  <h2>At Casa Skate, we believe that skateboarding is more than just a sport—it's a lifestyle and a form of self-expression. That’s why we’re committed to offering high-quality skateboards that are built to last and designed to perform, whether you’re a beginner or a seasoned skater.
+
+    Our boards combine durability, style, and functionality, all at prices that are accessible to everyone. Explore our collection and find the perfect board to fuel your passion without breaking the bank.
+    
+    </h2>
+
+    <img src="https://i.pinimg.com/736x/8d/e4/87/8de48771b40b2113b6ca3d8197df5d5d.jpg" alt="Imagen 4">
